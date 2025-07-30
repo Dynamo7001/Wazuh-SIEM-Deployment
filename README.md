@@ -16,6 +16,8 @@ I deployed the Wazuh server on an Ubuntu VM and installed the Wazuh stack.
 
 curl -sO https://packages.wazuh.com/4.12/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
 
+## 🎥 Wazuh Installation Video
+[▶️ Watch the Video](https://github.com/Dynamo7001/Wazuh-SIEM-Deployment/blob/main/Wazuh%20Installation.mp4)
 
 
 # ✅ Key Configurations (Wazuh Server – Ubuntu)
